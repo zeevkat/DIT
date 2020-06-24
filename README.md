@@ -1,4 +1,3 @@
-# DIT
 ReadMe!How To Run It!
 --------------------------------------------------------------------
 React Native “Get Started” documentation. 
